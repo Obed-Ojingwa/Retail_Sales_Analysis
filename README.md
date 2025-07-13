@@ -9,7 +9,11 @@ This is a real-world data analysis project that explores sales, profit, and perf
 - Recommend actions based on insights (Recommendations.mkd)
 
 ## 📁 Files
+
 All raw data sourced from Kaggle
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 - `Retail_Sales_EDA.ipynb`: Jupyter notebook with data cleaning, EDA, and visualizations
 - `data/SampleSuperstore.csv`: Raw dataset used
 - `images/`: Contains exported charts used on LinkedIn
