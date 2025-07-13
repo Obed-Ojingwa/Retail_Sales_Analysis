@@ -1,0 +1,11 @@
+1: *Office Supplies category had the highest number of orders but lowest profit margin.
+    Recommendation: The company should review pricing or vendor deals for Office Supplies to improve profit margins.
+
+2: *The Western region had consistently high sales and profit performance.
+    Recommendation: Focus marketing campaigns and inventory availability in the West to sustain growth.
+
+3: * The mont of November and December show peak sales, especially in Technology category.
+    Recommendation: Prepare inventory and promotions ahead of the Q4 boom to maximize revenue.
+
+4: Products like “Canon Inkjet Printer” have high sales but low profitability.
+    Recommendation: Explore bundling strategies or renegotiate supplier pricing
